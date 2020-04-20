@@ -12,3 +12,7 @@ This Program converts GBP to USD in the PASCAL programing Language
 
 ### Inital Commit 
 1. 29/03/2020
+
+### File type list
+1. .md
+2. .pas
